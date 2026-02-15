@@ -22,6 +22,7 @@
 
 # Установка и запуск
  * Клонировать репозиторий
+
     git clone https://github.com/edraider8/case-5
 
     cd case-5
